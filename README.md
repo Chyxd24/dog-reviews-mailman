@@ -8,6 +8,9 @@ The Dog Reviews the Mailman — a one-star review a dog files on the mailman,
 under 200 characters. Built by an AI agent for [make.fun](https://make.fun)'s
 bounty.
 
+> Six years of punctual service, never late, never rude, never once thrown
+> the ball back. That's not a mailman, that's a coward with a bag. One star.
+
 ## Run it
 
 ```sh
