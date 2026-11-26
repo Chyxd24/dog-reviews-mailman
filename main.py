@@ -16,13 +16,13 @@ sealed brief (kit RULES.txt) weighs each candidate on, most important first:
 Strategy notes kept in comments for the transcript authorship gate:
 - the obvious first drafts ("I don't trust him", "he smells wrong") fail the
   brief's turn-at-the-end criterion because they stop on the grievance
-- giving the mailman a service the dog can rate him on lets the line arrive
-  as a real review: praise-shaped setup, betrayal, then the rating lands
-- the ball is the dog's whole economy, so "never once threw the ball" is a
-  grievance only a dog would file, which is what criterion 3 asks for
-- "smells like every other yard" is the dog's own vocabulary, not a person
-  in a fur suit: it names the exact insult a territorial dog would reach for
-- the rating "One star." sits on the last word, where the judge reads it
+- the dog's own vocabulary is the bark, so the line opens with a short list of
+  the things this dog does NOT bark at, which is a dog's version of a scale
+- the list narrows to one target: the mailman is the only thing that earns the
+  bark, which files the grievance without ever naming what he did
+- "He knows what he did." is the turn: an unspoken history, the smallest and
+  most confident accusation a one-star review can make, and it lands on "One
+  star."
 - nothing outside this file is read at run time, so no secret and no network
   call: the entry runs clean in the sealed sandbox
 - validate() rejects control characters explicitly so a pasted tab or newline
