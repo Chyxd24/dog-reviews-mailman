@@ -44,8 +44,8 @@ OUT = os.path.join(OUT_DIR, "entry.txt")
 # dog would file -> the rating on the last word. Under the 200-char gate with
 # room to spare, so no edit has to trade a beat for a byte.
 ENTRY_LINE = (
-    "Six years of punctual service, never late, never rude, never once thrown "
-    "the ball back. That's not a mailman, that's a coward with a bag. One star."
+    "I don't bark at the wind, the rain, or the vacuum. "
+    "I bark at him. He knows what he did. One star."
 )
 
 # Hard bounds from the sealed scorer gate.
